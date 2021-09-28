@@ -14,6 +14,7 @@ public class TwoSum{
         for(int i : ints){
             System.out.println(i);
         }
+        System.out.println("Git");
     }
 
     public static int[] twoSum1(int [] nums,int target){
